@@ -114,7 +114,7 @@
 
 	-Mean of Frequency Derived Body Acceleration Signals Along Y Axis 
 
-fBodyAcc-mean()-Z 
+* fBodyAcc-mean()-Z 
 
 	-Mean of Frequency Derived Body Acceleration Signals Along Z Axis
 
