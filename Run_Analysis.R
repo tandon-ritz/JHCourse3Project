@@ -1,6 +1,8 @@
 ## SET THE WORKING DIRECTORY
 
-setwd("D:\\ritesh\\data-science\\JohnHopkins\\course-3-datacleaning\\course-project\\UCI HAR Dataset")
+## NOTE - UNCOMMENT FOLLOWING LINE AND SET THE WORKING DIRECTORY ACCORDING TO YOUR DIRECTORY STRUCTURE
+
+#setwd("D:\\ritesh\\data-science\\JohnHopkins\\course-3-datacleaning\\course-project\\UCI HAR Dataset")
 
 
 ## READ X TEST, Y TEST, SUBJECT TEST DATA INTO DATA FRAME
